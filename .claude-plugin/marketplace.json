@@ -1,0 +1,14 @@
+{
+  "name": "claude-team-skills",
+  "description": "Shared Claude skills for a small team, with one master copy and a change log",
+  "owner": {
+    "name": "lee"
+  },
+  "plugins": [
+    {
+      "name": "team-skills",
+      "source": "./plugins/team-skills",
+      "description": "The team's shared skills"
+    }
+  ]
+}

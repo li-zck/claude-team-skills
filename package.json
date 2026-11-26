@@ -1,0 +1,7 @@
+{
+  "name": "claude-team-skills",
+  "private": true,
+  "scripts": {
+    "package": "bun scripts/package.ts"
+  }
+}
